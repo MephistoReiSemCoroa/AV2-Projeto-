@@ -1,0 +1,75 @@
+body{
+    background-image: url(um-canto-remoto-do-universo_94937-265\ \(1\).jpg);
+    align-items: center;
+}
+
+
+div{
+    background-color: rgb(132, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    border-color:darkmagenta;
+    border-style: groove;
+    border-width: 10px;
+    font-weight: bold;
+}
+div:hover{
+    
+    
+}
+input:hover{
+    background-color: rgb(132, 0, 255);
+    font-weight: bold;
+}
+.container{
+    display:flex;
+    
+}
+h1{
+    background-color: rgb(132, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    border-color:darkmagenta;
+    border-style: groove;
+    border-width: 10px;
+    font-weight: bold; 
+    margin: auto;
+}
+p{
+    background-color: darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    border-color:rgb(246, 166, 246);
+    border-style: dashed;
+    border-width: 10px;
+    font-weight: bold; 
+    
+}
+h2{
+     background-color: rgb(132, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    border-color:darkmagenta;
+    border-style: groove;
+    border-width: 10px;
+    font-weight: bold; 
+    margin: auto;
+}
+    .Centro{
+        height: 200px;
+        width: 180px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: right;
+        position: absolute;
+    }
+    
+   .Center{
+        height: 200px;
+        width: 280px;
+        display: flex;
+        justify-content: right;
+        align-items: right;
+   }
+
